@@ -4,6 +4,11 @@
 
 This repository contains an unofficial build of GNU IceCat for Windows x64.
 
+## Official GNU IceCat resources
+
+- [GNUzilla project](https://savannah.gnu.org/projects/gnuzilla)
+- [GNUzilla source repository](https://cgit.git.savannah.gnu.org/cgit/gnuzilla.git)
+
 ## Updates
 
 You can check for and download the latest available build from the browser's Tools menu by selecting **[GIT Releases] Download the latest version**.
